@@ -1,0 +1,15 @@
+1. Open RStudio: 
+Launch the RStudio application on your computer. 
+2. Start a New Script: 
+Click on the File menu in the top-left corner. 
+Hover over New File in the dropdown menu. 
+Click R Script from the submenu. This will open a new script tab in the script editor pane. 
+3. Write or Paste Your R Program: 
+In the script editor pane, type out your R code 
+4. Save the Script (optional, but recommended): 
+Click on the File menu in the top-left corner. 
+Select Save or Save As. 
+Choose a location on your computer to save the file. 
+Give the file a name, ensuring it has the .R extension, and click Save. 
+5. Run the Program: 
+To Run the Entire Script: Click on the Source button located at the top-right of the script editor pane (or press Ctrl + Shift + S on the keyboard). 
